@@ -1,0 +1,13 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+saved_models/
+
+seg_train/
+seg_test/
+seg_pred/
+
+.ipynb_checkpoints/
